@@ -1,0 +1,5 @@
+#include "Player.cpp"
+#include "Trainer.cpp"
+#include "Main.cpp"
+#include "Pokemon.cpp"
+#include "pokemonDriver.cpp"
